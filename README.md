@@ -1,0 +1,1 @@
+# Job App Project using React JS, TailwindCSS, Supabase, Clerk, and Shadcn UI
